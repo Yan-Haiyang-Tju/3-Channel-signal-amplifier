@@ -8,7 +8,7 @@ This is a 3 Channel signal amplifier,you can use it to amplifier small signal fr
 
 
 ## 项目参数
-* NMOS采用AO3400A，驱动部分最大电流可达5A，采用了续流二极管等完整的电路保护措施
+* NMOS采用UMS AO3400A，驱动部分最大电流可达5A，采用了续流二极管等完整的电路保护措施
 
 
 ## 原理解析（硬件说明）
@@ -19,4 +19,4 @@ This is a 3 Channel signal amplifier,you can use it to amplifier small signal fr
 
 ### 3D
 
-![3D](https://cdn.jsdelivr.net/gh/Yan-Haiyang-
+![3D](https://cdn.jsdelivr.net/gh/Yan-Haiyang-Tju/PicGO_Reposity/20250920020454628.png)
