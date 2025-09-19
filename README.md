@@ -2,9 +2,10 @@
 This is a 3 Channel signal amplifier,you can use it to amplifier small signal from mcu.For example,you can amplify a pwm signal to control LED stripe or drive a DC brushed motor
 
 
+
 ## 项目简介
 这是一个PWM放大模块，将PWM信号通过NMOS进行放大，可用于有刷直流电机驱动、LED灯带调光等场景。
-
+PCB采用嘉立创EDA绘制，PCB工程文件见ProPrj_Signal_Amplifier_2025-09-20.epro
 
 
 ## 项目参数
